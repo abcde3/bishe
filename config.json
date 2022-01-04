@@ -1,0 +1,8 @@
+{
+    "mysql_host": "10.10.11.111",
+    "mysql_port": 3306,
+    "mysql_user": "root",
+    "mysql_passwd": "1q2w3e4r",
+    "mysql_db1": "vrp_data",
+    "mysql_db2":"tp_bgp_data"
+}
